@@ -1,0 +1,30 @@
+body {
+  margin: 0 auto;
+  max-width: 1040px;
+  font-family:Verdana;
+  font-size: 11px;
+}
+img{
+  max-width:100%;
+}
+
+.areaBox{
+  margin-top:12px;
+  margin-bottom: 12px;
+}
+
+.titleFont{
+  margin-bottom:-5px;
+  font-size:20;
+}
+
+.yellowFont{
+  margin-top:5px;
+  margin-bottom:0px;
+  font-size:12;
+  color:#FFA500;
+}
+
+.lastestWorks{
+  margin-bottom: 10px;
+}
