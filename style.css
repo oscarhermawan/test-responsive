@@ -38,16 +38,34 @@ a{
   color:#000000;
 }
 
-hr {
+hr.garisBiru{
   margin-top: -2px;
   width: 100%;
   background-color:#00BFFF;
   height: 4px;
 }
 
+hr.garisAtas{
+	border-top: 1px dashed #8c8b8b;
+}
+
+hr.garisBawah {
+  margin-top: -12px;
+	border-top: 1px dashed #8c8b8b;
+}
+
 .areaBox{
+  margin-bottom: 10px;
+  margin-top: -25px;
+}
+
+.footerBox{
+  margin-bottom: 10px;
+  margin-top: -5px;
+}
+
+.mediaBox{
   margin-top:20px;
-  margin-bottom: 20px;
 }
 
 .titleFont{
@@ -62,6 +80,7 @@ hr {
   color:#FFA500;
 }
 
+
 .blueFont{
   margin-top:5px;
   margin-bottom:0px;
@@ -70,5 +89,22 @@ hr {
 }
 
 .lastestWorks{
-  margin-bottom: 10px;
+  margin-top: 25px;
+  margin-bottom: -10px;
+}
+
+.foo {
+  float: right;
+  width: 8px;
+  height: 8px;
+  margin: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.blue {
+  background: #13b4ff;
+}
+
+.blueBright {
+  background: #00ffff;
 }
